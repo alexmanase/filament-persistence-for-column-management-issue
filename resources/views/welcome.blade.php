@@ -1,3 +1,3 @@
 <x-layouts.app :title="__('Welcome')">
-    Hello world
+    @livewire('example-table')
 </x-layouts.app>
